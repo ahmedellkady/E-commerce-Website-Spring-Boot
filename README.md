@@ -133,15 +133,20 @@ project-root/
 ---
 
 ### Admin
+
 | Admin Dashboard |
 |-----------------|
-| ![Admin Dashboard](./e-commerce/AdminDashboard.png) | 
+| ![Admin Dashboard](./e-commerce/AdminDashboard.png) |
+
 | All Orders Table |
 |------------------|
-![All Orders](./e-commerce/AllOrders.png) | ![Edit Status](./e-commerce/AllOrders1.png) | ![Status Updated](./e-commerce/AllOrders2.png) | 
+| ![All Orders](./e-commerce/AllOrders.png) | 
+| ![Edit Status](./e-commerce/AllOrders1.png) | 
+| ![Status Updated](./e-commerce/AllOrders2.png) |
+
 | All Users Table |
 |-----------------|
-![All Users](./e-commerce/AllUsers.png) | 
+| ![All Users](./e-commerce/AllUsers.png) | 
 
 ---
 
